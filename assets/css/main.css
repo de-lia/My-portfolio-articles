@@ -320,9 +320,7 @@ input, select, textarea {
 
 /* Hero Section */
 	.header__logo img{
-		width:4rem;
-		height: 4rem;
-		align-items: center;
+		width:11.25rem;
 }
 
 /* Row */
