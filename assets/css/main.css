@@ -318,6 +318,13 @@ input, select, textarea {
 		border-bottom-color: #eeeeee;
 	}
 
+/* Hero Section */
+	.header__logo img{
+		width:4rem;
+		height: 4rem;
+		align-items: center;
+}
+
 /* Row */
 
 	.row {
