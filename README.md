@@ -1,5 +1,5 @@
 # My-portfolio-articles
-This repo built using HTML and CSS only.
+This repo is built using HTML, CSS and Javascript.
 
 <!-- ## Demo
 
@@ -12,26 +12,26 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing Netflix_Clone
+## Installing My-portfolio-articles
 
-To install **Netflix-Clone**, follow these steps:
+To run **My-portfolio-articles**, follow these steps:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/de-lia/Netflix-Clone.git
+sudo git clone https://github.com/de-lia/My-portfolio-articles.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/de-lia/Netflix-Clone.git
+git clone https://github.com/de-lia/My-portfolio-articles.git
 ```
 
 ## Contact
 
 You can contact or connect with me by reaching out on [Twitter](https://twitter.com/delia.py).
 
-## License
+<!-- ## License
 
-This project is **free to use** and does not contains any license.
+This project is **free to use** and does not contains any license. -->
